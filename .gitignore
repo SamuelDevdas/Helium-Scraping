@@ -1,0 +1,6 @@
+chromedriver.exe
+LICENSE.chromedriver
+.history
+.mypy_cache
+venv-heliume
+THIRD_PARTY_NOTICES.chromedriver
