@@ -4,3 +4,4 @@ LICENSE.chromedriver
 .mypy_cache
 venv-heliume
 THIRD_PARTY_NOTICES.chromedriver
+model_cache
