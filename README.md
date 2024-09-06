@@ -18,6 +18,9 @@
 pip install optimum
 
 pip install auto-gptq
+
+pip install qwen-vl-utils
+
 ```
 
 2. Install from source
